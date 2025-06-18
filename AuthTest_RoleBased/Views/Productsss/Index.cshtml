@@ -1,0 +1,147 @@
+﻿@model PaginatedList<AuthTest_RoleBased.Models.Product>
+
+@{
+    ViewData["Title"] = "Product List";
+
+    double cp = ViewBag.cp;
+    double tp = ViewBag.tp;
+    var next = Model.HasNextPage ? "" : "disabled";
+    var prev = Model.HasPreviousPage ? "" : "disabled";
+    int i = ((int)cp - 1) * ViewBag.pSize + 1;
+}
+
+<h1 class="display-5 text-center text-primary mb-4">Product List</h1>
+
+<div class="text-center mb-3">
+    <a asp-action="Create" class="btn btn-success btn-lg">Create New Product</a>
+</div>
+
+@if (ViewBag.count != null)
+{
+    <div class="mb-2">
+        <h5>Total @ViewBag.count data found</h5>
+    </div>
+}
+
+<!-- Search Form (Top Search Bar) -->
+<form asp-action="Index" method="get" class="mb-3">
+    <div class="input-group">
+        <input type="text" name="userText" value="@ViewBag.sWord" class="form-control" placeholder="Search here..." />
+        <input type="hidden" name="sortOrder" value="@ViewBag.currentSort" />
+        <button class="btn btn-outline-secondary" type="submit">Search</button>
+    </div>
+</form>
+
+<!-- Data Table -->
+<div class="table-responsive bg-white p-3 shadow-sm rounded">
+    <table class="table table-bordered table-striped table-hover">
+        <thead class="table-primary">
+            <tr>
+                <th>Sl No</th>
+                <th style="width:200px;">
+                    <a asp-action="Index"
+                       asp-route-sortOrder="@ViewBag.sortParam"
+                       asp-route-userText="@ViewBag.sWord">Product Name</a>
+                </th>
+                <th style="width:100px;">Photo</th>
+                <th style="width:150px;">
+                    <a asp-action="Index"
+                       asp-route-sortOrder="@ViewBag.sortSalary"
+                       asp-route-userText="@ViewBag.sWord">Price</a>
+                </th>
+                <th>Unit</th>
+                <th>Quantity</th>
+                <th class="text-center">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@i</td>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td class="text-center">
+                        @if (!string.IsNullOrEmpty(item.Photo))
+                        {
+                            <img src="@item.Photo" alt="Image" class="img-thumbnail" style="width: 60px; height: 60px;" />
+                        }
+                        else
+                        {
+                            <span class="text-muted">No Image</span>
+                        }
+                    </td>
+                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Unit)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                    <td class="text-center">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm me-1">Edit</a>
+                        <form asp-action="Delete" asp-route-id="@item.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Are you sure?');">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+                i++;
+            }
+        </tbody>
+    </table>
+</div>
+
+<!-- Pagination -->
+@if (tp > 1)
+{
+    <ul class="pagination justify-content-center mt-4">
+        <li class="page-item @(cp == 1 ? "disabled" : "")">
+            <a class="page-link"
+               asp-action="Index"
+               asp-route-page="1"
+               asp-route-userText="@ViewBag.sWord"
+               asp-route-sortOrder="@ViewBag.currentSort">First</a>
+        </li>
+        <li class="page-item @prev">
+            <a class="page-link"
+               asp-action="Index"
+               asp-route-page="@(cp - 1)"
+               asp-route-userText="@ViewBag.sWord"
+               asp-route-sortOrder="@ViewBag.currentSort">Prev</a>
+        </li>
+
+        @for (int k = 1; k <= (int)tp; k++)
+        {
+            if (k >= (int)cp - 2 && k <= (int)cp + 2)
+            {
+                <li class="page-item @(k == (int)cp ? "active" : "")">
+                    <a class="page-link"
+                       asp-action="Index"
+                       asp-route-page="@k"
+                       asp-route-userText="@ViewBag.sWord"
+                       asp-route-sortOrder="@ViewBag.currentSort">@k</a>
+                </li>
+            }
+        }
+
+        <li class="page-item @next">
+            <a class="page-link"
+               asp-action="Index"
+               asp-route-page="@(cp + 1)"
+               asp-route-userText="@ViewBag.sWord"
+               asp-route-sortOrder="@ViewBag.currentSort">Next</a>
+        </li>
+        <li class="page-item @(cp == tp ? "disabled" : "")">
+            <a class="page-link"
+               asp-action="Index"
+               asp-route-page="@(tp)"
+               asp-route-userText="@ViewBag.sWord"
+               asp-route-sortOrder="@ViewBag.currentSort">Last</a>
+        </li>
+    </ul>
+
+    <!-- Go To Page -->
+    <div class="d-flex justify-content-center mt-3">
+        <form asp-action="Index" method="get" class="d-flex align-items-center gap-2">
+            <input type="number" name="page" min="1" max="@ViewBag.tp" class="form-control" placeholder="Go to page..." style="width: 120px;" required />
+            <input type="hidden" name="userText" value="@ViewBag.sWord" />
+            <input type="hidden" name="sortOrder" value="@ViewBag.currentSort" />
+            <button type="submit" class="btn btn-primary">Go</button>
+        </form>
+    </div>
+}

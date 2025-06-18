@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AuthTest_RoleBased.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AuthTest_RoleBased.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\11c22011-c6f7-4ef7-88c9-1f4c65b0930c.webp",
+      "PackagePath": "staticwebassets\\Images\\11c22011-c6f7-4ef7-88c9-1f4c65b0930c.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\1472c503-d6ab-491a-bb14-0c876f953f40.jpg",
+      "PackagePath": "staticwebassets\\Images\\1472c503-d6ab-491a-bb14-0c876f953f40.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\212753d5-e17f-41c9-99b4-20b2d4dfff8f.jpg",
+      "PackagePath": "staticwebassets\\Images\\212753d5-e17f-41c9-99b4-20b2d4dfff8f.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\28c08e18-959e-411d-a692-6c6a354d481e.webp",
+      "PackagePath": "staticwebassets\\Images\\28c08e18-959e-411d-a692-6c6a354d481e.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\336fc50c-978d-4715-9448-4cd50b98fd0e.webp",
+      "PackagePath": "staticwebassets\\Images\\336fc50c-978d-4715-9448-4cd50b98fd0e.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\36a2a2c8-be01-44ea-aba3-60c17f895916.webp",
+      "PackagePath": "staticwebassets\\Images\\36a2a2c8-be01-44ea-aba3-60c17f895916.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\38aba5f1-14d1-42d4-b0fd-ffd4bcfcf9c3.jpg",
+      "PackagePath": "staticwebassets\\Images\\38aba5f1-14d1-42d4-b0fd-ffd4bcfcf9c3.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\42637d25-9906-4ebd-a5b3-18db0b636a3a.jpg",
+      "PackagePath": "staticwebassets\\Images\\42637d25-9906-4ebd-a5b3-18db0b636a3a.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\441828e6-5bca-4bbe-aacb-5a3576f8edbd.jpg",
+      "PackagePath": "staticwebassets\\Images\\441828e6-5bca-4bbe-aacb-5a3576f8edbd.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\53976402-ee97-4782-831f-6d1404413f09.webp",
+      "PackagePath": "staticwebassets\\Images\\53976402-ee97-4782-831f-6d1404413f09.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\5a253f9f-86d8-4ae4-ac8b-de493730ae87.webp",
+      "PackagePath": "staticwebassets\\Images\\5a253f9f-86d8-4ae4-ac8b-de493730ae87.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\68d91496-a43e-4c0c-8310-571c3844a7b6.webp",
+      "PackagePath": "staticwebassets\\Images\\68d91496-a43e-4c0c-8310-571c3844a7b6.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\7660e778-8581-4d2c-9785-0250f5c0efb5.webp",
+      "PackagePath": "staticwebassets\\Images\\7660e778-8581-4d2c-9785-0250f5c0efb5.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\8badd383-6ef5-45c5-be74-a08f37147f6e.webp",
+      "PackagePath": "staticwebassets\\Images\\8badd383-6ef5-45c5-be74-a08f37147f6e.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\8d2053ae-6886-4ca2-ac97-ed4341c79b14.jpg",
+      "PackagePath": "staticwebassets\\Images\\8d2053ae-6886-4ca2-ac97-ed4341c79b14.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\90ed570d-fa27-4a29-bd72-ed3106f3af22.jpeg",
+      "PackagePath": "staticwebassets\\Images\\90ed570d-fa27-4a29-bd72-ed3106f3af22.jpeg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\93955632-3269-4f14-baa7-04d28b246a47.jpg",
+      "PackagePath": "staticwebassets\\Images\\93955632-3269-4f14-baa7-04d28b246a47.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\a5043339-c845-4d39-b616-f28dc81f8809.jpg",
+      "PackagePath": "staticwebassets\\Images\\a5043339-c845-4d39-b616-f28dc81f8809.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\bf141d99-de4b-4fb0-b3e1-7dd07f844cb8.webp",
+      "PackagePath": "staticwebassets\\Images\\bf141d99-de4b-4fb0-b3e1-7dd07f844cb8.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\c17d8686-4343-4ed7-8ddc-c9c2072dc084.webp",
+      "PackagePath": "staticwebassets\\Images\\c17d8686-4343-4ed7-8ddc-c9c2072dc084.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\cart.png",
+      "PackagePath": "staticwebassets\\Images\\cart.png"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\cd1be1e5-3bde-4c1a-987c-ad277dd5789e.webp",
+      "PackagePath": "staticwebassets\\Images\\cd1be1e5-3bde-4c1a-987c-ad277dd5789e.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\da915822-1e08-49cc-9a60-5c8187a84946.jpg",
+      "PackagePath": "staticwebassets\\Images\\da915822-1e08-49cc-9a60-5c8187a84946.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\db4881db-86bf-44b7-8d97-a046d60847f6.webp",
+      "PackagePath": "staticwebassets\\Images\\db4881db-86bf-44b7-8d97-a046d60847f6.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\discount1.jpg",
+      "PackagePath": "staticwebassets\\Images\\discount1.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\discount2.jpg",
+      "PackagePath": "staticwebassets\\Images\\discount2.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\discount3.jpg",
+      "PackagePath": "staticwebassets\\Images\\discount3.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\discount4.jpg",
+      "PackagePath": "staticwebassets\\Images\\discount4.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\f323b3a9-3d9b-4840-b097-7bc0a7d72a0b.jpg",
+      "PackagePath": "staticwebassets\\Images\\f323b3a9-3d9b-4840-b097-7bc0a7d72a0b.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\fa82cc17-23dd-42d3-8a77-95f949ac98c4.webp",
+      "PackagePath": "staticwebassets\\Images\\fa82cc17-23dd-42d3-8a77-95f949ac98c4.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\fc928895-7864-4479-907f-91df4a222c18.webp",
+      "PackagePath": "staticwebassets\\Images\\fc928895-7864-4479-907f-91df4a222c18.webp"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\lep1.jpg",
+      "PackagePath": "staticwebassets\\Images\\lep1.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\lep11.jpg",
+      "PackagePath": "staticwebassets\\Images\\lep11.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\lep2.jpg",
+      "PackagePath": "staticwebassets\\Images\\lep2.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\lep20.jpg",
+      "PackagePath": "staticwebassets\\Images\\lep20.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\Images\\lep3.jpg",
+      "PackagePath": "staticwebassets\\Images\\lep3.jpg"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Core_M_09\\Tofayel_1\\AuthTest_RoleBased\\AuthTest_RoleBased\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AuthTest_RoleBased.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AuthTest_RoleBased.props",
+      "PackagePath": "build\\AuthTest_RoleBased.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AuthTest_RoleBased.props",
+      "PackagePath": "buildMultiTargeting\\AuthTest_RoleBased.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AuthTest_RoleBased.props",
+      "PackagePath": "buildTransitive\\AuthTest_RoleBased.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

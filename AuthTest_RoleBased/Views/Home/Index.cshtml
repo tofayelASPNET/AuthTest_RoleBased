@@ -1,0 +1,58 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ *@
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-4">
+    <h1 class="display-5 mb-4">Welcome 📦 Products</h1>
+
+    <div class="row">
+        <!-- Mobile -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                @* <img src="https://via.placeholder.com/300x200?text=Mobile+Phone" class="card-img-top" alt="Mobile"> *@
+                <img src="~/images/lep20.jpg" asp-append-version="true" />
+                <div class="card-body">
+                    <h5 class="card-title">Smartphones</h5>
+                    <p class="card-text">Latest Android & iOS mobiles with high-performance features.</p>
+                    <a href="#" class="btn btn-primary">View More</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Laptop -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                @* <img src="https://via.placeholder.com/300x200?text=Laptop" class="card-img-top" alt="Laptop"> *@
+                <img src="~/images/lep3.jpg" asp-append-version="true" />
+                <div class="card-body">
+                    <h5 class="card-title">Laptops</h5>
+                    <p class="card-text">Modern laptops for gaming, work, and personal use.</p>
+                    <a href="#" class="btn btn-primary">View More</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Accessories -->
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                @* <img src="https://via.placeholder.com/300x200?text=Accessories" class="card-img-top" alt="Accessories"> *@
+                <img src="~/images/lep2.jpg" asp-append-version="true" />
+                <div class="card-body">
+                    <h5 class="card-title">Accessories</h5>
+                    <p class="card-text">Headphones, chargers, cases, and more essential add-ons.</p>
+                    <a href="#" class="btn btn-primary">View More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

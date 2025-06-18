@@ -1,0 +1,150 @@
+﻿@{
+    ViewData["Title"] = "AssignRole";
+}
+
+<div class="container my-5">
+    <div class="card shadow-sm p-4 border-0 rounded-4">
+        <h2 class="text-center text-info mb-4">Assign Role to User</h2>
+
+        @if (!string.IsNullOrEmpty(ViewBag.msg))
+        {
+            <div class="alert alert-success text-center fw-semibold">
+                @ViewBag.msg
+            </div>
+        }
+
+        <div class="row justify-content-center">
+            <div class="col-md-8 col-lg-6">
+                <form asp-action="AssignRole" asp-controller="Role" method="post" class="bg-light p-4 rounded-3 border">
+                    <div class="mb-3 row align-items-center">
+                        <label class="col-sm-3 col-form-label fw-semibold">User:</label>
+                        <div class="col-sm-9">
+                            <select name="userData" class="form-select" required>
+                                <option disabled selected>-- Select User --</option>
+                                @foreach (var item in ViewBag.users)
+                                {
+                                    <option value="@item.Email">@item.Email</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="mb-4 row align-items-center">
+                        <label class="col-sm-3 col-form-label fw-semibold">Role:</label>
+                        <div class="col-sm-9">
+                            <select name="roleData" class="form-select" required>
+                                <option disabled selected>-- Select Role --</option>
+                                @foreach (var item in ViewBag.roles)
+                                {
+                                    <option value="@item.Name">@item.Name</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="text-end">
+                        <button type="submit" class="btn btn-primary px-4">Assign Role</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <hr class="my-5" />
+
+    <h4 class="text-center mb-3">Assigned Roles</h4>
+
+    <table class="table table-bordered text-center align-middle">
+        <thead class="table-dark">
+            <tr>
+                <th>User Email</th>
+                <th>Assigned Roles</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.userRoles)
+            {
+                <tr>
+                    <td>@item.Email</td>
+                    <td>
+                        @foreach (var role in item.Roles)
+                        {
+                            <span class="badge bg-info text-dark mx-1">@role</span>
+                        }
+                    </td>
+                    <td>
+                        @foreach (var role in item.Roles)
+                        {
+                            <div class="d-flex align-items-center justify-content-center mb-1">
+                                <!-- Remove Button -->
+                                <form asp-action="RemoveUserRole" method="post" class="me-2">
+                                    <input type="hidden" name="userEmail" value="@item.Email" />
+                                    <input type="hidden" name="roleName" value="@role" />
+                                    <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure you want to remove this role?')">
+                                        Remove
+                                    </button>
+                                </form>
+
+                                <!-- Edit Role Dropdown -->
+                                <form asp-action="EditUserRole" method="post" class="d-flex">
+                                    <input type="hidden" name="userEmail" value="@item.Email" />
+                                    <input type="hidden" name="oldRole" value="@role" />
+                                    <select name="newRole" class="form-select form-select-sm me-2" required>
+                                        <option disabled selected>Change to...</option>
+                                        @foreach (var r in ViewBag.roles)
+                                        {
+                                            if (r.Name != role)
+                                            {
+                                                <option value="@r.Name">@r.Name</option>
+                                            }
+                                        }
+                                    </select>
+                                    <button type="submit" class="btn btn-sm btn-warning">Change</button>
+                                </form>
+                            </div>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+@* .container {
+    max-width: 900px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+}
+
+.form-select {
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.alert {
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 12px 20px;
+}
+
+.fw-semibold {
+    font-weight: 600;
+} *@
